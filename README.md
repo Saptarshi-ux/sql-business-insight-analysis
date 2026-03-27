@@ -1,5 +1,10 @@
 # SQL Challenge Based Internship – Business Analytics Case Studies  
 
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql&logoColor=white)
+![CTE](https://img.shields.io/badge/CTE-WITH%20Clause-green)
+![Window Functions](https://img.shields.io/badge/Window%20Functions-RANK%20%7C%20ROW__NUMBER-purple) 
+
 ##  Description  
 This repository contains my complete work from the **IVY SQL Challenge-Based Internship**, conducted from **October to November 2025**.  
 
